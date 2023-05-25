@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255 217 185);
+}
+
+.container {
+    width: 205px;
+    height: 250px;
+    background-color: darkgreen;
+    margin: auto;
+}
+
+.green {
+display: flex;
+}
+
+button {
+    display: inline-block;
+    text-align: center;
+    background-color: green;
+    border-width: 2px;
+    border-color: black;
+    font-size: 16px;
+    width: 102.5px;
+    color: white;
+    padding: 15px;
+}
+
+.pink {
+    padding: 5px;
+    width: 200px;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(255 217 185);
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+}
+.btn {
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    padding: 15px;
+    width: 205px;
+
+}
